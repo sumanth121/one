@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Sumanth SRH Summer Collection in 2026-2029</h1>
+            <h1>Sumanth SRH Hyderaad Summer Collection in 2026-2029</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 50% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now lekunte nee meeda otte</a>
