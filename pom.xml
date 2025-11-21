@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://44.202.251.20:8081/repository/flm-releases/</url>
+		    <url>http://52.73.82.123:8081/repository/SumanthRepo/</url>
 		</repository>
   	</distributionManagement>
 	
