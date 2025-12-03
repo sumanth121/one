@@ -75,7 +75,7 @@
         }
 
         nav ul li {
-            margin: 0 15px
+            margin: 0 15px;
             position: relative;
         }
 
