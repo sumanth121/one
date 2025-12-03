@@ -8,7 +8,7 @@ document.getElementById('contact-form').addEventListener('submit', function (e) 
   if (name && email && message) {
     alert('Thank you for contacting us! We will get back to you soon.');
     document.getElementById('contact-form').reset();
-  } else 
+  } else {
     alert('Please fill out all fields.');
   }
 });
