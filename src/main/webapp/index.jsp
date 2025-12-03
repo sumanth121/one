@@ -460,7 +460,7 @@
 
         .deal-discount {
             background-color: #ff4757;
-            color:
+            color: white ;
             padding: 5px 10px;
             border-radius: 4px;
             font-size: 14px;
