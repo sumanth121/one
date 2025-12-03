@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.222.116.1:8081/repository/Sumanth_repo/</url>
+		    <url>http://3.238.193.152:8081/repository/Project_repo/</url>
 		</repository>
   	</distributionManagement>
 	
